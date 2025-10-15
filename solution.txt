@@ -3,3 +3,4 @@ byte0:you_just_mastered_changing_directories  Auto complete me tabs
 byte1:in_every_job_that_must_be_done_there_is_an_element_of_fun kanodas to man
 byte2:grep_and_you_will_find   xrisimopiontas grep "will find" shakespeare.txt
 byte3:programmers   diff shakespeare.modified.txt shakespeare.txt
+byte4:the_triwizard_cup_is_now_yours find . -name "cup.txt"
