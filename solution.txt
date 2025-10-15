@@ -5,3 +5,5 @@ byte2:grep_and_you_will_find   xrisimopiontas grep "will find" shakespeare.txt
 byte3:programmers   diff shakespeare.modified.txt shakespeare.txt
 byte4:the_triwizard_cup_is_now_yours find . -name "cup.txt"
 byte5:sdi2200278_1760523088_-1297146656_79_107_171_40_62628_22 pigenodas sto tmp me cd ..
+byte6:unzipping_is_a_piece_of_cake copy kai unzip sto temp
+ 
