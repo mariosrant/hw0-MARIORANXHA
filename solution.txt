@@ -13,3 +13,4 @@ byte10:i_wonder_what_this_does Althea  sort names.txt | head -n 42
 byte11:Peta  sort births.txt | uniq -c | sort -nr
 byte12 : which_command_is_the_best
 byte13:descriptive_git_commit_messages_are_great  git log --pretty=%B
+byte14:copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand  git --no-pager log -p kai epeita manual psaksimo
