@@ -14,3 +14,13 @@ byte11:Peta  sort births.txt | uniq -c | sort -nr
 byte12 : which_command_is_the_best
 byte13:descriptive_git_commit_messages_are_great  git log --pretty=%B
 byte14:copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand  git --no-pager log -p kai epeita manual psaksimo
+byte15:congratulations_you_have_completed_all_challenges kanodas to brute force
+for pin in {0000..9999}; do
+    output=$(./vault $pin)
+    exit_code=$?
+    echo "Trying $pin: $output"
+    if [ $exit_code -eq 0 ] && [[ $output != *"Incorrect pin!"* ]]; then
+        echo "Found correct PIN: $pin"
+        break
+    fi
+done
