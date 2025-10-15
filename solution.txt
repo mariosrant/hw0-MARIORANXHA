@@ -7,3 +7,4 @@ byte4:the_triwizard_cup_is_now_yours find . -name "cup.txt"
 byte5:sdi2200278_1760523088_-1297146656_79_107_171_40_62628_22 pigenodas sto tmp me cd ..
 byte6:unzipping_is_a_piece_of_cake copy kai unzip sto temp
 byte7:tar_jokes_cant_stick tar -tzf byte7.tar.gz gia na doume periexomena prin aposibiesi metafora sto tmp kai epeita aposumpiesi
+byte8:cant_keep_secrets_from_you  vim carriage_return.txt
